@@ -1,5 +1,11 @@
-# 15_Python_Programming_ABL_Tasks
-My name is "RAHUL KROSURU"
-I'm from CSECS-21 (cybersecurity)
-This is my commit to the python activity based learning 
-I completed my 10 tasks and created a new repository and posted in GIT-HUB and Programmingprogresstracker.app
+This repository contains Python Programming Course "Activity-Based-Learning" 
+
+# ACTIVITY BASED LEARNING.
+- Institution: NRIU
+- Academic Year: 2026-27
+- Course: Python Programming
+- Section: Sec-21
+- Serial Number: 16
+- Student Name: Krosuru.Rahul
+- Number of tasks : 10
+- Uploaded platform : Git-Hub & Programmingprogresstracker.app
